@@ -15,7 +15,7 @@
 </div>
 <div>
 
-  ## 📌 Introduction
+  # 📌 Introduction
   ### Project Objective
   <ul>
     <li>2023 AWS Bootcamp는 Slack을 소통 창구로 사용</li>
@@ -33,12 +33,13 @@
   </ul>
   
   ### To-Be Architecture
+  ![To-Be Architecture](../presentation/슬라이드0006.jpg)
   <br/>
   <br/>
   
-  ## 💻 Project Outcome
+  # 💻 Project Outcome
   ### As-Is Architecture
-  <!--이미지 삽입-->
+  ![As-Is Architecture](../presentation/슬라이드0009.jpg)
   
   ### Main Functions
   - Crawlers
@@ -62,12 +63,15 @@
   
   ### Sequence Diagram
   <!--슬라이드0011.jpg-->
+  ![Sequence Diagram](../presentation/슬라이드0011.jpg)
   
   ### Project Output
   <!--슬라이드0012.jpg-->
+  ![Project Output](../presentation/슬라이드0012.jpg)
+  <br/>
   <br/>
   
-  ## 💡 Conclusion
+  # 💡 Conclusion
   ### Areas for Improvement
   <ul>
     <li>To-Be 아키텍처 구현</li>
