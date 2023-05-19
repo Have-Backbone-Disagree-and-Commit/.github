@@ -39,7 +39,7 @@
   
   # 💻 Project Outcome
   ### As-Is Architecture
-  ![As-Is Architecture](../presentation/슬라이드0009.jpg)
+  ![As-Is Architecture](https://github.com/Have-Backbone-Disagree-and-Commit/.github/blob/main/presentation/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C0009.jpg)
   
   ### Main Functions
   - Crawlers
