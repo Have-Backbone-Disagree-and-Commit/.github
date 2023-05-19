@@ -63,11 +63,11 @@
   
   ### Sequence Diagram
   <!--슬라이드0011.jpg-->
-  ![Sequence Diagram](../presentation/슬라이드0011.jpg)
+  ![Sequence Diagram](https://github.com/Have-Backbone-Disagree-and-Commit/.github/blob/main/presentation/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C0011.jpg)
   
   ### Project Output
   <!--슬라이드0012.jpg-->
-  ![Project Output](../presentation/슬라이드0012.jpg)
+  ![Project Output](https://github.com/Have-Backbone-Disagree-and-Commit/.github/blob/main/presentation/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C0012.jpg)
   <br/>
   <br/>
   
