@@ -33,7 +33,7 @@
   </ul>
   
   ### To-Be Architecture
-  ![To-Be Architecture](../presentation/슬라이드0006.jpg)
+  ![To-Be Architecture](https://github.com/Have-Backbone-Disagree-and-Commit/.github/blob/main/presentation/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C0006.jpg)
   <br/>
   <br/>
   
