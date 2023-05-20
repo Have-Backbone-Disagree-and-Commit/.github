@@ -40,6 +40,7 @@
   # 💻 Project Outcome
   ### As-Is Architecture
   ![As-Is Architecture](https://github.com/Have-Backbone-Disagree-and-Commit/.github/blob/main/presentation/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C0009.jpg)
+  🚨 As-Is Architecture 기반의 1차 개발·배포 이후, AWS Lambda를 중점적으로 사용하는 Architecture 기반의 2차 개발·배포가 이루어짐
   
   ### Main Functions
   - Crawlers
@@ -48,6 +49,7 @@
   
   - SlackbotAPI Server
     - Slackbot과 통신을 담당
+    - (기존에는 AWS EC2 기반 컨테이너에 올렸는데 지금은 AWS Lambda로 대체함) 
     - [📁<strong>slack_bot</strong> Repositry 바로가기](https://github.com/Have-Backbone-Disagree-and-Commit/slack_bot)
   - ElasticAPI Server
   
